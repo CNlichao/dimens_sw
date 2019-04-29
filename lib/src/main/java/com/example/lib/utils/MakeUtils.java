@@ -20,7 +20,7 @@ public class MakeUtils {
     private static final String XML_DIMEN_TEMPLETE = "<dimen name=\"qb_%1$spx_%2$d\">%3$.2fdp</dimen>\r\n";
 
    
-    private static final String XML_BASE_DPI = "<dimen name=\"base_dpi\">%ddp</dimen>\r\n";
+    private static final String XML_BASE_DPI = "<string name=\"base_dpi\">%ddp</string>\r\n";
     private  static final int MAX_SIZE = 720;
 
     /**
